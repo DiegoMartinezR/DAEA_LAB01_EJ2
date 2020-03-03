@@ -1,0 +1,9 @@
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\bin\Debug\pjconection2.exe.config
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\bin\Debug\pjconection2.exe
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\bin\Debug\pjconection2.pdb
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\obj\Debug\pjconection2.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\obj\Debug\pjconection2.frmClientes.resources
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\obj\Debug\pjconection2.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\obj\Debug\pjconection2.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\obj\Debug\pjconection2.exe
+C:\Users\Alumno\source\repos\pjconection2\pjconection2\obj\Debug\pjconection2.pdb
